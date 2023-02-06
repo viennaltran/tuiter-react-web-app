@@ -1,0 +1,128 @@
+body {
+    position: relative;
+    background-color: black;
+    color:white;
+    width:100%;
+    }
+
+ .wd-border{
+     border: 1px solid rgb(47, 51, 54);
+     height: 48em;
+     width: 40%;
+ }
+
+ .wd-content{
+    margin-left:16px;
+ }
+
+ .wd-input{
+    border-radius: 25px;
+    color: white;
+    background-color:darkgray;
+    display: inline-block;
+ }
+ .wd-gear{
+    float:right;
+    margin-right: 12px;
+
+ }
+
+ .wd-input-container{
+
+ }
+
+ .wd-links-container{
+    position: absolute;
+    top: 45px;
+    left: 0;
+ }
+
+ .wd-container1{
+     position: absolute;
+     top: 90px;
+     left: 0;
+     width: 40%;
+  }
+
+  .wd-container2{
+       position: absolute;
+       top: 180px;
+       left: 0;
+       width: 40%;
+    }
+
+ .wd-container3{
+    position: absolute;
+    top: 280px;
+    left: 0;
+    width: 40%;
+ }
+
+ .wd-container4{
+     position: absolute;
+     top: 400px;
+     left: 0;
+     width: 40%;
+}
+
+ .wd-container5{
+     position: absolute;
+     top: 520px;
+     left: 0;
+     width: 40%;
+}
+
+ .wd-container6{
+     position: absolute;
+     top: 640px;
+     left: 0;
+     width: 40%;
+ }
+
+  .no-line-change{
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+ .float-child {
+     float: left;
+     margin-left: 16px;
+ }
+
+.wd-links{
+    font-size:15px;
+    display: block;
+
+}
+.wd-highlight-color{
+    color: rgb(29,161,242);
+    padding:16px 16px 16px 0px;
+    border-bottom: solid;
+    text-decoration: none;
+}
+
+.wd-other-color{
+    color: rgb(110,118,125);
+    padding:16px;
+    text-decoration: none;
+}
+.wd-topic-color{
+    color: rgb(110,118,125);
+    text-decoration: none;
+    font-size: 13px
+}
+
+.text-color-highlight{
+    color: white
+}
+.font-topic{
+    font-size: 13px
+}
+
+.rounded-picture{
+    border-radius: 20px;
+    float:right;
+    margin-right: 16px;
+}
+
+

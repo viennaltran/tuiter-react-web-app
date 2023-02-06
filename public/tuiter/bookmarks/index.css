@@ -1,0 +1,107 @@
+.wd-container-one{
+    position: absolute;
+    top: 0px;
+    left: 0;
+    border: 1px solid rgb(47, 51, 54);
+    height: 90rem;
+    width: 42%;
+}
+.wd-bookmark{
+    margin-left:16px;
+}
+.wd-handle{
+    margin-left:16px;
+    margin-bottom: 12px;
+    border-bottom: 1px solid rgb(47, 51, 54);
+}
+.wd-avatar{
+    margin-left:16px;
+}
+.wd-container-two{
+    position: absolute;
+    top: 100px;
+    left: 0;
+
+}
+.wd-container-one1{
+    position: absolute;
+    top: 650px;
+    left: 0;
+
+}
+
+.wd-container-two2{
+    position: absolute;
+    top: 700px;
+    left: 0;
+
+}
+
+.float-left{
+    float:left;
+}
+
+.float-right{
+    float:right;
+}
+
+.wd-heading{
+    margin-left: 12px;
+}
+.wd-handle2{
+    font:15px;
+    color: rgb(110,118,125);
+}
+
+html{
+    font-size: 15px;
+}
+.padding-picture-text{
+    padding: 12px;
+}
+i {
+  margin-right: 12px;
+}
+
+a { text-decoration: none;
+    text-decoration: none;
+    color: gray}
+
+.border-picture{
+    border: 1px solid rgb(47, 51, 54);
+    border-radius: 20px;
+    margin-left: 75px;
+}
+.border-picture-word{
+    border: 1px solid gray;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.rounded-corners-top{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.font-size-picture-title{
+    font-size: 15px;
+}
+
+.font-size-picture-content{
+    font-size: 12px;
+}
+.float-left-1-4{
+    float: left;
+    margin-left: 15%;
+}
+
+.text-color-liked{
+    color: #FF7979;
+}
+
+.margin-top-avart{
+    margin-top: 65px;
+}
+
+.max-length-content{
+    max-width: 506px;
+}
